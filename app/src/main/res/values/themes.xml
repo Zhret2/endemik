@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EndemikDB" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6650A4</item>
+        <item name="colorPrimaryDark">#4F378B</item>
+        <item name="colorAccent">#7965AF</item>
+    </style>
+</resources>
